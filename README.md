@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👩‍💻 I am qualified specialist with 7-years experience in analytics.
+* 👩‍💻 I am qualified specialist with 7-years experience in analytics.
 I have proven experience in analytics business projects.
 I am able to establish contact with people from different spheres. Highly organized, attention to detail.
-🙋‍♀️ Having mastered the tech stack and getting well-versed in business metrics, I am looking for a job as a data analyst.
-📫 How to reach me: kt.bobyleva@yandex.ru
+* 🙋‍♀️ Having mastered the tech stack and getting well-versed in business metrics, I am looking for a job as a data analyst.
+* 📫 How to reach me: kt.bobyleva@yandex.ru
 
 <!--
 **kate-bobyleva/kate-bobyleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
